@@ -5,4 +5,4 @@ He creado un pequeño proyecto donde podemos ver los datos de los cargadores de 
 
 Esta es la URL facilitada por la app para su uso o prueba: https://appapp-7tlq4pmjbusviesfjsblrw.streamlit.app/
 
-Es necesario que se descarguen los datos CSV facilitados, y añadirlos en la web donde indica 'BROWSE'. De esa manera podrán ver el mapa interactivo y los datos.
+Es necesario que se descarguen los datos CSV facilitados, y añadirlos en la web donde indica 'Browse File'. De esa manera podrán ver el mapa interactivo y los datos.
