@@ -15,7 +15,7 @@ st.title(f'Red de Cargadores Madrid 2024')  # Título principal de la aplicació
 
 st.image('madrid_skyline.jpg',
          caption='Madrid Skyline',
-         width=1000)
+         width=900)
 
 # Carga y procesamiento de datos
 try:
